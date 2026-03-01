@@ -1,6 +1,6 @@
 # 🚀 Chandu Tamada | Portfolio
 
-![Chandu Tamada Portfolio](https://d36g7qg6pk2cm7.cloudfront.net/assets/landing_page/Electric_Vehicles_Banner_Desktop-692f8d1d96466e69a219f621e1bb468ff9495cbcda7ff767a3085ce59871d2a8.webp)
+![Chandu Tamada Portfolio](https://static.resumegiants.com/wp-content/uploads/sites/25/2022/06/09105622/Professional-portfolio-736x414.webp)
 
 ## 📌 Overview
 Welcome to my professional portfolio! I am a **Full Stack Developer** and **Android Developer** with a passion for building scalable, high-performance applications. This project showcases my journey, technical expertise, and the diverse range of projects I've worked on—from mobile apps to machine learning models.
